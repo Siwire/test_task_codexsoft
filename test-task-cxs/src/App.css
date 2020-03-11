@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: #282c38;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button {
+  
+  margin-left: 15px !important;
+  margin-bottom: 50px !important;
+  margin-top: 25px !important;
+  
+}
+
+.textarea { 
+  
+  width: 300px !important;
+  min-height: 500px !important;
+  background-color: linen;
+}
+.InputData {
+  color: white !important;
+  margin-top: 20px !important;
+  margin-right: 30px !important;
+  width: 365px !important;
+  
+}
+
+
